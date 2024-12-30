@@ -33,7 +33,7 @@ A modern web browser is all you need to run the application.
 
 2. Navigate to the project folder:  
    ```bash
-   cd javascript-ecommerce-shoppingcart
+   cd javascript-JavaScript-Ecommerce--ShoppingCart
    ```
 
 3. Open `index.html` in your preferred browser.
